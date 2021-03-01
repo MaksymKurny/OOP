@@ -1,0 +1,13 @@
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.AssemblyInfoInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.AssemblyInfo.cs
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.deps.json
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.runtimeconfig.json
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.runtimeconfig.dev.json
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.dll
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\bin\Debug\netcoreapp3.1\oop lab 2.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.dll
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop lab 2\obj\Debug\netcoreapp3.1\oop lab 2.genruntimeconfig.cache
