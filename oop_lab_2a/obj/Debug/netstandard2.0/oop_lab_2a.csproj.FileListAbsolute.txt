@@ -1,0 +1,9 @@
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\bin\Debug\netstandard2.0\oop_lab_2a.deps.json
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\bin\Debug\netstandard2.0\oop_lab_2a.dll
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\bin\Debug\netstandard2.0\oop_lab_2a.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.AssemblyInfoInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.AssemblyInfo.cs
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.dll
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_2a\obj\Debug\netstandard2.0\oop_lab_2a.pdb

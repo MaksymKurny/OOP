@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQ06BkP4wbIiOvRuPoXvXCdUEXG0p4x5njPSy68UszH/p0FKE0Yg5EStes7+ZXuZu8EFQOJaryNY44gygv7fLA==",
+  "success": true,
+  "projectFilePath": "D:\\Makc\\Desktop\\Document\\NAU God\\visula st\\oop_lab_2a\\oop_lab_2a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Makc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Makc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
