@@ -1,0 +1,11 @@
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.csproj.GenerateResource.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\bin\Debug\oop_lab_5a.exe.config
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\bin\Debug\oop_lab_5a.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\bin\Debug\oop_lab_5a.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.Properties.Resources.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.fMain.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_5a\obj\Debug\oop_lab_5a.fCPU.resources
